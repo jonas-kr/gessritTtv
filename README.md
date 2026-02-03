@@ -2,7 +2,7 @@
 
 A realistic text-to-speech voice generator web application that allows users to create TikTok-style voiceovers for their videos. Generate natural-sounding audio in multiple languages and voices with an easy-to-use interface.
 
-![Project Banner](imgs/main.png)
+![Project Banner](/homePage.png)
 
 ## 🎯 Features
 
